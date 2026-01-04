@@ -1,5 +1,8 @@
 # Customer Churn Prediction System (End-to-End Machine Learning Project)
 
+---
+
+**Live Demo (Streamlit App):** https://sufiyan-tejani-customer-churn-prediction-app-upt8yw.streamlit.app/
 ## Overview
 This project implements a complete end-to-end machine learning pipeline to predict customer churn using demographic and service-related data. It follows industry-standard practices including data preprocessing, exploratory data analysis, model training, hyperparameter tuning, and deployment through an interactive web application.
 
